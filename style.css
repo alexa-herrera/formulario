@@ -1,0 +1,23 @@
+body{
+  background-color:#fea8ff;
+}
+header{
+  background-color:#fff5b3;
+  font-family:Comic Sans MS;
+  font-size:20px;
+  margin-top:15px;
+  height:35px;
+
+}
+div#formulario{
+  margin:auto;
+  background-color:#ff38b6;
+  font-family:Comic Sans MS;
+  font-size:16px;
+  margin-top:70px;
+  width:400px;
+  height:420px;
+}
+p{
+  background-color:wheat
+}
